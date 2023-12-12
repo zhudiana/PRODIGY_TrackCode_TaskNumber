@@ -9,6 +9,7 @@
 ✔️JAVASCRIPT
 
 ## Overview
-https://github.com/zhudiana/PRODIGY_TrackCode_TaskNumber/assets/95677906/e1eadbc7-1b8f-4ca8-9856-84360821b84a
+
+https://github.com/zhudiana/PRODIGY_TrackCode_TaskNumber/assets/95677906/4997e5b0-1bf2-4a80-a16c-573073d3db42
 
 
